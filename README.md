@@ -1,4 +1,5 @@
-### Hi there 👋 I am an experienced engineering professional with over 15 years of experience in SAP ERP. Throughout my career, I have developed a deep understanding of SAP's core modules, including Finance, Supply Chain, and Human Resources. I have successfully delivered numerous SAP implementations and upgrades, and have a track record of achieving results in complex and fast-paced environments.
+### Hi there 👋 I am an experienced engineering professional with over 15 years of experience in SAP ERP. 
+Throughout my career, I have developed a deep understanding of SAP's core modules, including Finance, Supply Chain, and Human Resources. I have successfully delivered numerous SAP implementations and upgrades, and have a track record of achieving results in complex and fast-paced environments.
 
 Recently, I have developed a keen interest in emerging technologies such as SAP on Azure, Python, and Blockchain. I believe that these technologies have the potential to transform the way businesses operate and create new opportunities for innovation and growth.
 
